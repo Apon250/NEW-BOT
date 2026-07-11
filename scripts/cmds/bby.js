@@ -267,4 +267,4 @@ module.exports.onChat = async ({ api, event }) => {
     } catch (err) {
         console.error(err);
     }
-};MahMUD
+};
