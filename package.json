@@ -62,7 +62,7 @@
     "dev": "NODE_ENV=development node index.js",
     "prod": "NODE_ENV=production node index.js"
   },
-  "author": "NTKhang",
+  "author": "APON",
   "license": "MIT",
   "repository": {
     "type": "git",
